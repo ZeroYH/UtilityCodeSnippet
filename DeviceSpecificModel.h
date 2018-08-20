@@ -15,6 +15,6 @@
 
  @return 设备型号
  */
-+ (NSString*)deviceSpecificModelName;
++ (NSString *)deviceSpecificModelName;
 
 @end
