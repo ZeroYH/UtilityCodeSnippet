@@ -11,3 +11,6 @@ Category
 - UIImage+ImageOperation 图片分类
 - UITextField+Category 设置TextField内容边距
 
+常用宏
+
+- CommonMacro 常用的一些宏定义
