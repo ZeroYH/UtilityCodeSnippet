@@ -5,6 +5,7 @@
 - MessageForwardProxy 消息转发。
 - RespondSEL 响应事件
 - YHProgressView 显示进度的图层
+- SyntheticImages 合成图片
 
 Category
 
