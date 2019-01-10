@@ -11,6 +11,7 @@ Category
 
 - UIImage+ImageOperation 图片分类
 - UITextField+Category 设置TextField内容边距
+- NSMutableArray+WeakReferences 弱引用对象 （用的时候用 [NSMutableArray mutableArrayUsingWeakReferences] 初始化对象）
 
 常用宏
 

@@ -176,5 +176,5 @@ free(ivars);\
 \
 
 /// 检测函数运行时间
-#define FunctionRunTimeStart CFAbsoluteTime start = CACurrentMediaTime();
-#define FunctionRunTimeEnd CFAbsoluteTime end = CACurrentMediaTime(); NSLog(@"time cost: %f", end - start);
+#define FunctionRunTimeStart CFAbsoluteTime absoluteTime_start = CACurrentMediaTime();
+#define FunctionRunTimeEnd CFAbsoluteTime absoluteTime_end = CACurrentMediaTime(); NSLog(@"time cost: %f", absoluteTime_end - absoluteTime_start);
