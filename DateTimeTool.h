@@ -30,6 +30,8 @@ NS_ASSUME_NONNULL_BEGIN
 +(NSString *)getFormat:(NSString *)dateString;
 +(NSString *)interceptTimeStampFromStr:(NSString *)string DateFormat:(NSString *)DateFormat;
 
++ (NSInteger)compareOneDay:(NSDate *)oneDay withAnotherDay:(NSDate *)anotherDay format:(NSString *)formatl;
+
 @end
 
 NS_ASSUME_NONNULL_END
