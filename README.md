@@ -6,6 +6,9 @@
 - RespondSEL 响应事件
 - YHProgressView 显示进度的图层
 - SyntheticImages 合成图片
+- JFSportsInfoChartView 多彩圆环图
+- URLUtil 检测string是否是url
+- SpeechRecognition 语音识别库，接入科大讯飞语音识别sdk（iflyMSC.framework）
 
 Category
 
